@@ -1,0 +1,56 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "78-921-3324",
+  "taxFormId" : "4052249",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0143716",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Crooks, Mohr and Schmitt"
+    },
+    "address" : {
+      "line1" : "04067 Blanda Mountain",
+      "city" : "Fallonmouth",
+      "region" : "NJ",
+      "postalCode" : "26180"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "vicente.emard@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-54-7822",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Isobel",
+      "last" : "Quitzon"
+    },
+    "address" : {
+      "line1" : "0082 Thelma Crossing",
+      "city" : "North Darnell",
+      "region" : "NV",
+      "postalCode" : "87934"
+    },
+    "email" : "leopoldo.tromp@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "policyNumber" : "policyNumber",
+  "payment" : 200,
+  "saleDate" : "2025-06-12",
+  "issuerName" : "issuerName",
+  "contactNameAddress" : {
+    "line1" : "3018 Waneta Mount",
+    "city" : "New Fernetown",
+    "region" : "ND",
+    "postalCode" : "20181",
+    "name1" : "Johnston-Gleichner",
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    }
+  }
+}

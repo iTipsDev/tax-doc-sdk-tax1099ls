@@ -1,0 +1,56 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "50-095-1000",
+  "taxFormId" : "6638148",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0143716",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Crooks, Mohr and Schmitt"
+    },
+    "address" : {
+      "line1" : "04067 Blanda Mountain",
+      "city" : "Fallonmouth",
+      "region" : "NJ",
+      "postalCode" : "26180"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "vicente.emard@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-58-9209",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Waylon",
+      "last" : "Bogisich"
+    },
+    "address" : {
+      "line1" : "71099 Runolfsson Haven",
+      "city" : "Goodwinmouth",
+      "region" : "NH",
+      "postalCode" : "55451"
+    },
+    "email" : "rigoberto.metz@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "policyNumber" : "policyNumber",
+  "payment" : 200,
+  "saleDate" : "2025-12-24",
+  "issuerName" : "issuerName",
+  "contactNameAddress" : {
+    "line1" : "152 Altenwerth Throughway",
+    "city" : "Johnstonmouth",
+    "region" : "WI",
+    "postalCode" : "27932",
+    "name1" : "Conn, Halvorson and Graham",
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    }
+  }
+}

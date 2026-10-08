@@ -1,0 +1,66 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "14-524-3425",
+  "taxFormId" : "2998339",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0285523",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Mills LLC"
+    },
+    "address" : {
+      "line1" : "261 Conroy Pike",
+      "city" : "New Jewell",
+      "region" : "WA",
+      "postalCode" : "41592",
+      "unitType" : "Apt",
+      "unitNumber" : "561"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "nobuko.weissnat@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-33-7986",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Janis",
+      "middle" : "Eunice",
+      "last" : "Turner"
+    },
+    "businessName" : {
+      "name1" : "Mraz-Dach"
+    },
+    "address" : {
+      "line1" : "3918 Bradtke Streets",
+      "city" : "Gloverport",
+      "region" : "MD",
+      "postalCode" : "91940",
+      "unitType" : "Apt",
+      "unitNumber" : "449"
+    },
+    "email" : "michel.homenick@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "policyNumber" : "548-48729-9",
+  "payment" : 200,
+  "saleDate" : "2026-12-16",
+  "issuerName" : "Fritsch-Steuber",
+  "contactNameAddress" : {
+    "line1" : "454 Halvorson Spring",
+    "city" : "Uptonport",
+    "region" : "SD",
+    "postalCode" : "61153",
+    "unitType" : "Apt",
+    "unitNumber" : "081",
+    "name1" : "Lakin-Hamill",
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    }
+  }
+}

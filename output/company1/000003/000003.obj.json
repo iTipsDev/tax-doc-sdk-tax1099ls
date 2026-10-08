@@ -1,0 +1,66 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "10-943-3986",
+  "taxFormId" : "9179434",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0285523",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Mills LLC"
+    },
+    "address" : {
+      "line1" : "261 Conroy Pike",
+      "city" : "New Jewell",
+      "region" : "WA",
+      "postalCode" : "41592",
+      "unitType" : "Apt",
+      "unitNumber" : "561"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "nobuko.weissnat@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-93-5023",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Vern",
+      "middle" : "Shari",
+      "last" : "Senger"
+    },
+    "businessName" : {
+      "name1" : "Anderson, Romaguera and Stehr"
+    },
+    "address" : {
+      "line1" : "8195 Shad Oval",
+      "city" : "East Danialstad",
+      "region" : "CA",
+      "postalCode" : "10490",
+      "unitType" : "Apt",
+      "unitNumber" : "372"
+    },
+    "email" : "gil.wunsch@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "policyNumber" : "519-26766-9",
+  "payment" : 200,
+  "saleDate" : "2026-09-18",
+  "issuerName" : "Hilpert LLC",
+  "contactNameAddress" : {
+    "line1" : "61398 Kohler Mall",
+    "city" : "East Jared",
+    "region" : "WV",
+    "postalCode" : "77164",
+    "unitType" : "Apt",
+    "unitNumber" : "770",
+    "name1" : "Leannon-Maggio",
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    }
+  }
+}

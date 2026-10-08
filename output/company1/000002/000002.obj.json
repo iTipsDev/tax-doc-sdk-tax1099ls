@@ -1,0 +1,66 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "09-821-1683",
+  "taxFormId" : "4624980",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0285523",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Mills LLC"
+    },
+    "address" : {
+      "line1" : "261 Conroy Pike",
+      "city" : "New Jewell",
+      "region" : "WA",
+      "postalCode" : "41592",
+      "unitType" : "Apt",
+      "unitNumber" : "561"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "nobuko.weissnat@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-01-0259",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Josefine",
+      "middle" : "Jesus",
+      "last" : "Stamm"
+    },
+    "businessName" : {
+      "name1" : "Connelly LLC"
+    },
+    "address" : {
+      "line1" : "642 Jeffery Fort",
+      "city" : "Port Meaganfurt",
+      "region" : "WY",
+      "postalCode" : "14313",
+      "unitType" : "Apt",
+      "unitNumber" : "995"
+    },
+    "email" : "berry.wintheiser@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "policyNumber" : "881-99532-8",
+  "payment" : 200,
+  "saleDate" : "2026-09-15",
+  "issuerName" : "Donnelly-Lubowitz",
+  "contactNameAddress" : {
+    "line1" : "6485 Hayes Terrace",
+    "city" : "East Rory",
+    "region" : "NE",
+    "postalCode" : "11337",
+    "unitType" : "Apt",
+    "unitNumber" : "860",
+    "name1" : "Bosco, Bode and Hirthe",
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    }
+  }
+}
